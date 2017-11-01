@@ -74,11 +74,11 @@ Quels sont les termes les plus fréquents ?
 
 Sans surprise, une forte présence des termes clés du développement, en particulier web, et spécifiquement le front (en référence au développement front-end) et le software.
 <h3>Un tour du côté des repos</h3>
-Comme nous le disions plus haut, un repos est un dossier spécifique créé sur GitHub. Dans notre échantillons, 318 inscrits n'ont ouvert aucun repo sur le réseau social. Nous nous intéresserons donc aux 1520 autres.
+Comme nous le disions plus haut, un repos est un dossier spécifique créé sur GitHub. Dans notre échantillon, 318 inscrits n'ont ouvert aucun repo sur le réseau social. Nous nous intéresserons donc aux 1520 autres.
 <h4>Combien de repos ?</h4>
 Au total, notre recherche sur l'API a permis de recueillir<strong> 13154 repositories pour Github en Bretagne.</strong> Sur cette base, 5300 sont des forks — les forks sont des copies sur son compte de repositories créés par d'autres, afin d'utiliser, d'améliorer ou de modifier un code écrit par un autre développeur.
 <h4>Les langages les plus utilisés</h4>
-Chaque repos est étiqueté d'un langage, c'est-à-dire du langage de programmation du code contenu dans ce repos. Quels sont ceux que le retrouve le plus en Bretagne ?
+Chaque repos est étiqueté d'un langage, c'est-à-dire du langage de programmation du code contenu dans ce repo. Quels sont ceux que le retrouve le plus en Bretagne ?
 
 <a href="http://data-bzh.fr/wp-content/uploads/2017/11/langage-repos.png"><img class="aligncenter size-full wp-image-3798" src="http://data-bzh.fr/wp-content/uploads/2017/11/langage-repos.png" alt="" width="1200" height="600" /></a>
 
@@ -88,7 +88,7 @@ Langage ultra populaire, JavaScript se trouve en tête de gondole avec pas moins
 
 Voici donc les plus surveillés :
 |full_name |language | watchers_count|
-|:------------------------------|:----------|--------------:|
+|:------------------------------|:----------|:--------------|
 |aterrien/jQuery-Knob |JavaScript | 5071|
 |Okazari/Rythm.js |JavaScript | 2815|
 |aurelhubert/ahbottomnavigation |Java | 2464|
@@ -100,7 +100,7 @@ Voici donc les plus surveillés :
 |FGRibreau/check-build |JavaScript | 700|
 |citronneur/rdpy |Python | 614|
 <h4>Date de création des repos</h4>
-Et dans l'ensemble, sont-ce des repos récents ou plutôt datant ?
+Dans l'ensemble, sont-ce des repos récents ou plutôt anciens ?
 
 Les plus vieux repos étant :
 
