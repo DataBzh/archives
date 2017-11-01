@@ -57,6 +57,8 @@ Voici les développeurs les plus suivis :
 <h3>Et côté bio ?</h3>
 Non, rien à voir avec l'appellation agricole, nous faisons ici référence aux biographies des utilisateurs, qui sont fournis par 434 profils.
 
+Quels sont les termes les plus fréquents ?
+
 |word | n|
 |:-----------|:----|
 |developer | 77|
