@@ -13,7 +13,7 @@ post_date: 2017-10-04 14:00:45
 ---
 <h2>Quelles sont les institutions culturelles qui produisent des ressources pédagogiques en ligne situées en Bretagne historique ? <!--more--></h2>
 <h3>À propos du jeu de données</h3>
-Nous avons téléchargé ce jeu de données sur le site Open Data du ministère de la culture. Voici la description de ce dataset : <em>Liste et localisation des institutions culturelles française produisant des ressources pédagogiques en ligne et partenaires du site Histoire des arts. </em>Le site <a href="http://www.histoiredesarts.culture.fr/">Histoires des arts</a> est un portail centralisant des ressources historiques en ligne.
+Nous avons téléchargé ce jeu de données sur le site <a href="https://data.culturecommunication.gouv.fr/explore/dataset/liste-des-institutions-culturelles-francaise-produisant-des-ressources-pedagogiq/">Open Data du ministère de la cultur</a>e. Voici la description de ce dataset : <em>Liste et localisation des institutions culturelles française produisant des ressources pédagogiques en ligne et partenaires du site Histoire des arts. </em>Le site <a href="http://www.histoiredesarts.culture.fr/">Histoires des arts</a> est un portail centralisant des ressources historiques en ligne.
 
 Les données en fin d'article proviennent d'un scraping des pages web.
 
