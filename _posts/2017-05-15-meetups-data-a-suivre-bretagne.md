@@ -11,10 +11,10 @@ post_date: 2017-05-15 18:00:39
 ---
 <h2>Envie de rencontrer d'autres data nerds ? De partager un verre ou de découvrir de nouvelles pratiques ? Voici quelques meetups bretons à rejoindre !<!--more--></h2>
 <h3>[Tweet "Les #meetup #Data à suivre en #Bretagne"]</h3>
-<h3>Rennes Data Club</h3>
+<h3>Breizh Data Club</h3>
 Amateurs de données, curieux, passionnés ou anciens combattants ? Ne cherchez plus, nous avons le meetup qu'il vous faut !
 
-Le Rennes Data Club propose des événements généralistes autour de la données, ainsi que des rencontres informelles et des conférences sur des sujets spécifiques. Un premier pas parfait dans le monde de la donnée en Bretagne.
+Le Breizh Data Club propose des événements généralistes autour de la données, ainsi que des rencontres informelles et des conférences sur des sujets spécifiques. Un premier pas parfait dans le monde de la donnée en Bretagne.
 <div align="center"><iframe src="http://meetu.ps/39pBq3" width="600" height="250" frameborder="0"></iframe></div>
 <h3>Data2Breakfast</h3>
 Vous êtes plutôt du matin ? Alors le Data2Breakfast est fait pour vous ;)
