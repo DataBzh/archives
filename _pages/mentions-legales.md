@@ -12,17 +12,6 @@ post_date: 2016-01-24 10:33:54
 Tous les articles sont sous la responsabilité de leurs auteurs — nous vous invitons à les contacter directement en cas de remarque, conseil, question, ou tout autre interrogation que vous pourriez avoir sur l'un de nos contenus.
 
 Toutes les analyses sont tributaires du jeu de données source. Si le jeu de données source est incomplet ou erroné, Data Bzh ne pourra en être responsable : nous vous invitons à transmettre vos remarques aux propriétaire du jeu de données, qui est systématiquement cité en début ou fin d'article.
-<div id="content" class="site-content">
-<div class="wrap">
-<div id="primary" class="content-area"><article id="post-208" class="post-208 page type-page status-publish has-post-thumbnail hentry">
-<div class="entry-content">
-<h2>À propos des liens affiliés Amazon</h2>
-Data Bzh est un projet collaboratif bénévole, soutenu par l'implication volontaire de ses contributeurs. Certains liens de cette liste sont affiliés Amazon — en les achetant via ce site, vous soutenez notre projet en participant à quelques frais inhérents au maintien du projet (achat du nom de domaine, location du serveur...).
-
-</div>
-</article></div>
-</div>
-</div>
 <h2>Identité visuelle</h2>
 Tous les éléments graphiques de Data Bzh restent la propriété de Data Bzh.
 
