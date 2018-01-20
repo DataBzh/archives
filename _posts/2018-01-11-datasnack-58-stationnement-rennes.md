@@ -5,7 +5,7 @@ author: Colin FAY
 post_excerpt: ""
 layout: post
 permalink: >
-  http://data-bzh.fr/datasnack-57-horodateurs-ville-de-rennes-2/
+  http://data-bzh.fr/datasnack-58-stationnement-rennes/
 published: true
 post_date: 2018-01-11 18:00:49
 ---
